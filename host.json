@@ -1,8 +1,502 @@
-{
-  "http": {
-    "routePrefix": "api"
+[
+  {
+    "Time": "1/23/2018 22:53",
+    "Temperature": 113.34,
+    "Pressure": 977.3898
   },
-  "swagger": {
-    "enabled": true
+  {
+    "Time": "1/23/2018 22:53",
+    "Temperature": 113.37,
+    "Pressure": 977.4548
+  },
+  {
+    "Time": "1/23/2018 22:53",
+    "Temperature": 113.4,
+    "Pressure": 977.4013
+  },
+  {
+    "Time": "1/23/2018 22:53",
+    "Temperature": 113.41,
+    "Pressure": 977.3971
+  },
+  {
+    "Time": "1/23/2018 22:53",
+    "Temperature": 113.44,
+    "Pressure": 977.3888
+  },
+  {
+    "Time": "1/23/2018 22:53",
+    "Temperature": 113.47,
+    "Pressure": 977.446
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.51,
+    "Pressure": 977.4527
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.53,
+    "Pressure": 977.3844
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.58,
+    "Pressure": 977.468
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.61,
+    "Pressure": 977.4779
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.62,
+    "Pressure": 977.4129
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.65,
+    "Pressure": 977.4604
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.68,
+    "Pressure": 977.468
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.7,
+    "Pressure": 977.452
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.72,
+    "Pressure": 977.4879
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.73,
+    "Pressure": 977.4523
+  },
+  {
+    "Time": "1/23/2018 22:54",
+    "Temperature": 113.74,
+    "Pressure": 977.4553
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.75,
+    "Pressure": 977.443
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.75,
+    "Pressure": 977.4737
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.76,
+    "Pressure": 977.5218
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.77,
+    "Pressure": 977.4555
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.78,
+    "Pressure": 977.4732
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.8,
+    "Pressure": 977.4995
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.83,
+    "Pressure": 977.4863
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.85,
+    "Pressure": 977.4954
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.87,
+    "Pressure": 977.5132
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.89,
+    "Pressure": 977.4839
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.9,
+    "Pressure": 977.4831
+  },
+  {
+    "Time": "1/23/2018 22:55",
+    "Temperature": 113.93,
+    "Pressure": 977.3974
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 113.93,
+    "Pressure": 977.4593
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 113.95,
+    "Pressure": 977.4221
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 113.96,
+    "Pressure": 977.4538
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 113.97,
+    "Pressure": 977.4451
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.01,
+    "Pressure": 977.4266
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.03,
+    "Pressure": 977.4253
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.05,
+    "Pressure": 977.4091
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.07,
+    "Pressure": 977.3971
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.08,
+    "Pressure": 977.3688
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.11,
+    "Pressure": 977.4291
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.12,
+    "Pressure": 977.4068
+  },
+  {
+    "Time": "1/23/2018 22:56",
+    "Temperature": 114.14,
+    "Pressure": 977.4202
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.17,
+    "Pressure": 977.4329
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.2,
+    "Pressure": 977.4012
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.21,
+    "Pressure": 977.4344
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.23,
+    "Pressure": 977.4171
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.25,
+    "Pressure": 977.4161
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.27,
+    "Pressure": 977.3734
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.3,
+    "Pressure": 977.4028
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.32,
+    "Pressure": 977.4336
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.34,
+    "Pressure": 977.4096
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.34,
+    "Pressure": 977.4236
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.36,
+    "Pressure": 977.3941
+  },
+  {
+    "Time": "1/23/2018 22:57",
+    "Temperature": 114.37,
+    "Pressure": 977.4099
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.38,
+    "Pressure": 977.417
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.39,
+    "Pressure": 977.3719
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.4,
+    "Pressure": 977.3644
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.42,
+    "Pressure": 977.3673
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.43,
+    "Pressure": 977.3482
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.45,
+    "Pressure": 977.4244
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.47,
+    "Pressure": 977.3862
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.48,
+    "Pressure": 977.3648
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.47,
+    "Pressure": 977.3645
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.49,
+    "Pressure": 977.372
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.5,
+    "Pressure": 977.3686
+  },
+  {
+    "Time": "1/23/2018 22:58",
+    "Temperature": 114.51,
+    "Pressure": 977.3304
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.51,
+    "Pressure": 977.3209
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.52,
+    "Pressure": 977.3723
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.52,
+    "Pressure": 977.3228
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.51,
+    "Pressure": 977.3566
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.52,
+    "Pressure": 977.3792
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.51,
+    "Pressure": 977.3592
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.51,
+    "Pressure": 977.3469
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.52,
+    "Pressure": 977.3873
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.53,
+    "Pressure": 977.3447
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.55,
+    "Pressure": 977.378
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.55,
+    "Pressure": 977.3441
+  },
+  {
+    "Time": "1/23/2018 22:59",
+    "Temperature": 114.55,
+    "Pressure": 977.3311
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.57,
+    "Pressure": 977.3209
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.6,
+    "Pressure": 977.3344
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.61,
+    "Pressure": 977.3389
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.61,
+    "Pressure": 977.2892
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.6,
+    "Pressure": 977.3056
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.58,
+    "Pressure": 977.322
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.5,
+    "Pressure": 977.3041
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.4,
+    "Pressure": 977.3165
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.27,
+    "Pressure": 977.3438
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 114.08,
+    "Pressure": 977.3478
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 113.85,
+    "Pressure": 977.2838
+  },
+  {
+    "Time": "1/23/2018 23:00",
+    "Temperature": 113.59,
+    "Pressure": 977.2949
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 113.28,
+    "Pressure": 977.3121
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 112.94,
+    "Pressure": 977.326
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 112.53,
+    "Pressure": 977.2852
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 112.11,
+    "Pressure": 977.307
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 111.65,
+    "Pressure": 977.2857
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 111.12,
+    "Pressure": 977.288
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 110.6,
+    "Pressure": 977.2969
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 110.03,
+    "Pressure": 977.306
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 109.42,
+    "Pressure": 977.2741
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 108.82,
+    "Pressure": 977.2902
+  },
+  {
+    "Time": "1/23/2018 23:01",
+    "Temperature": 108.18,
+    "Pressure": 977.279
   }
-}
+]
